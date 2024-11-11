@@ -1,9 +1,11 @@
 {
   "dependencies": {
     "com.roundtablelearning.xr-dev-tools": "file:../xr-dev-tools",
+    "com.soupday.cc3_unity_tools": "file:../cc_unity_tools_URP-1.6.3.URP17",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",
+    "com.unity.mobile.android-logcat": "1.4.3",
     "com.unity.render-pipelines.universal": "14.0.11",
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.6",
