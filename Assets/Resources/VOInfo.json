@@ -1,0 +1,19 @@
+{
+	"jsonPaths": 
+	[
+		"JSONfiles"
+	],
+	"supportedLanguages": 
+	[
+		"English"
+	],
+	"audioInfo": [
+		{
+			"language": "English",
+			"audioFolderPaths": 
+			[
+				"Audio/English"
+			]
+		}
+	]
+}
